@@ -1,0 +1,15 @@
+C:\Users\prati\source\repos\UserRegistation_Using_MsTest\UserRegistation_Using_MsTest\bin\Debug\net6.0\UserRegistation_Using_MsTest.exe
+C:\Users\prati\source\repos\UserRegistation_Using_MsTest\UserRegistation_Using_MsTest\bin\Debug\net6.0\UserRegistation_Using_MsTest.deps.json
+C:\Users\prati\source\repos\UserRegistation_Using_MsTest\UserRegistation_Using_MsTest\bin\Debug\net6.0\UserRegistation_Using_MsTest.runtimeconfig.json
+C:\Users\prati\source\repos\UserRegistation_Using_MsTest\UserRegistation_Using_MsTest\bin\Debug\net6.0\UserRegistation_Using_MsTest.dll
+C:\Users\prati\source\repos\UserRegistation_Using_MsTest\UserRegistation_Using_MsTest\bin\Debug\net6.0\ref\UserRegistation_Using_MsTest.dll
+C:\Users\prati\source\repos\UserRegistation_Using_MsTest\UserRegistation_Using_MsTest\bin\Debug\net6.0\UserRegistation_Using_MsTest.pdb
+C:\Users\prati\source\repos\UserRegistation_Using_MsTest\UserRegistation_Using_MsTest\obj\Debug\net6.0\UserRegistation_Using_MsTest.csproj.AssemblyReference.cache
+C:\Users\prati\source\repos\UserRegistation_Using_MsTest\UserRegistation_Using_MsTest\obj\Debug\net6.0\UserRegistation_Using_MsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\source\repos\UserRegistation_Using_MsTest\UserRegistation_Using_MsTest\obj\Debug\net6.0\UserRegistation_Using_MsTest.AssemblyInfoInputs.cache
+C:\Users\prati\source\repos\UserRegistation_Using_MsTest\UserRegistation_Using_MsTest\obj\Debug\net6.0\UserRegistation_Using_MsTest.AssemblyInfo.cs
+C:\Users\prati\source\repos\UserRegistation_Using_MsTest\UserRegistation_Using_MsTest\obj\Debug\net6.0\UserRegistation_Using_MsTest.csproj.CoreCompileInputs.cache
+C:\Users\prati\source\repos\UserRegistation_Using_MsTest\UserRegistation_Using_MsTest\obj\Debug\net6.0\UserRegistation_Using_MsTest.dll
+C:\Users\prati\source\repos\UserRegistation_Using_MsTest\UserRegistation_Using_MsTest\obj\Debug\net6.0\ref\UserRegistation_Using_MsTest.dll
+C:\Users\prati\source\repos\UserRegistation_Using_MsTest\UserRegistation_Using_MsTest\obj\Debug\net6.0\UserRegistation_Using_MsTest.pdb
+C:\Users\prati\source\repos\UserRegistation_Using_MsTest\UserRegistation_Using_MsTest\obj\Debug\net6.0\UserRegistation_Using_MsTest.genruntimeconfig.cache

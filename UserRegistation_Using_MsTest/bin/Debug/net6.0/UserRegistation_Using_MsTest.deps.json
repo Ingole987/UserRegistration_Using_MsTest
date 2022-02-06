@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UserRegistation_Using_MsTest/1.0.0": {
+        "runtime": {
+          "UserRegistation_Using_MsTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserRegistation_Using_MsTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
